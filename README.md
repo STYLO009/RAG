@@ -24,5 +24,9 @@ A **Retrieval-Augmented Generation (RAG)** project that combines the power of **
 
 ---
 
+
+## RAG,ipynb is a demo file by using the RAG concept and also it is the youtube summarizer file that can be accessed using any video id!!
+
+
 <img width="1326" height="796" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/69f91d66-fe2c-4f6b-b60f-8ac09ad5687d" />
 
